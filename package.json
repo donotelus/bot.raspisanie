@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "getdate": "^1.0.0",
+    "markup": "^0.0.4",
+    "nodemon": "^3.0.1",
+    "telegraf": "^4.15.0"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
